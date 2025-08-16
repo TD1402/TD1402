@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tandung1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tandung1402?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=TD1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/TD1402?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **AI/ML** and exploring **Next.js**
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://tandung.vercel.app/)
 - 💼 Open to **freelance opportunities** and **collaborations**
-- 📫 How to reach me: **tandung1402@gmail.com**
+- 📫 How to reach me: **tandung140202@gmail.com**
 - ⚡ Fun fact: **Coffee enthusiast ☕ and anime lover 🎌**
 
 ---
@@ -63,12 +63,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tandung1402&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandung1402&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TD1402&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TD1402&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandung1402&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TD1402&theme=radical" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandung1402&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TD1402&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tandung1402&bg_color=0d1117&color=ffffff&line=00b4d8&point=00b4d8&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TD1402&bg_color=0d1117&color=ffffff&line=00b4d8&point=00b4d8&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -92,9 +92,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandung1402/tandung1402/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandung1402/tandung1402/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tandung1402/tandung1402/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TD1402/TD1402/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TD1402/TD1402/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TD1402/TD1402/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -102,11 +102,11 @@
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tandung1402/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tandung1402&repo=project1&theme=radical" />
+  <a href="https://github.com/TD1402/TD1402">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TD1402&repo=TD1402&theme=radical" />
   </a>
-  <a href="https://github.com/tandung1402/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tandung1402&repo=project2&theme=radical" />
+  <a href="https://github.com/TD1402/Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TD1402&repo=Portfolio&theme=radical" />
   </a>
 </div>
 
@@ -137,7 +137,8 @@
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=3&unique=true" alt="Spotify recently played" />
+  <p><em>🎧 Summertime Sadness - Lana Del Rey</em></p>
+  <p>💫 <strong>"Kiss me hard before you go, summertime sadness..."</strong></p>
 </div>
 
 ---
@@ -154,10 +155,10 @@
   <a href="https://www.facebook.com/user.error.14/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:tandung1402@gmail.com">
+  <a href="mailto:tandung140202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/tandung1402">
+  <a href="https://twitter.com/TD1402">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
@@ -168,7 +169,7 @@
 
 <div align="center">
   <p>If you find my work helpful and would like to support me:</p>
-  <a href="https://www.buymeacoffee.com/tandung1402">
+  <a href="https://www.buymeacoffee.com/TD1402">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
@@ -180,7 +181,7 @@
 </div>
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/tandung1402">tandung1402</a> with ❤️</p>
+  <p>⭐️ From <a href="https://github.com/TD1402">TD1402</a> with ❤️</p>
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
     <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
