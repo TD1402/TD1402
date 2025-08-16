@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tan Dung</h1>
 <h3 align="center">A passionate frontend developer from VIET NAM</h3>
 
+<p align="center">
+  <img src="./public/image/06r.jpeg" alt="Hero Banner" width="800"/>
+</p>
 - 🔭 I’m currently working on [uchina](https://www.e-uchina.net/)
 
 - 🌱 I’m currently learning **good people**
