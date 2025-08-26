@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **AI/ML** and exploring **Next.js**
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://tandung.vercel.app/)
 - 💼 Open to **freelance opportunities** and **collaborations**
-- 📫 How to reach me: **tandung140202@gmail.com**
+- 📫 How to reach me: **tandung1402@gmail.com**
 - ⚡ Fun fact: **Coffee enthusiast ☕ and anime lover 🎌**
 
 ---
