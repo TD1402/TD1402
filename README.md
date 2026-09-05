@@ -17,7 +17,7 @@
 
 - 🔭 I'm currently working at [**Uchina**](https://www.e-uchina.net/) as a Frontend Developer
 - 🌱 I'm currently learning **AI/ML** and exploring **Next.js**
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://tandung.vercel.app/)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://td1402.vercel.app/)
 - 💼 Open to **freelance opportunities** and **collaborations**
 - 📫 How to reach me: **tandung1402@gmail.com**
 - ⚡ Fun fact: **Coffee enthusiast ☕ and anime lover 🎌**
